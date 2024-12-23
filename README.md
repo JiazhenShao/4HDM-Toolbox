@@ -10,8 +10,8 @@ Later, we will update code for other abelian symmetry for 4HDM such as $\mathbb{
 
 We uploaded the latest version of our toolbox which helps NHDM study. The latest code v2.0 includes:
 
-* examples that studies all possible generators of the three remaining rephasing groups of 4HDM, such as $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$ other than simple cyclic groups;
-* example functions that solves more complicated set of matrix equations in the $\mathbb{Z}_4\times\mathbb{Z}_4$ case;
+* examples that studies all possible generators of the three remaining rephasing groups of 4HDM, such as $\mathbb{Z}_2\times\mathbb{Z}_2\times\mathbb{Z}_2$, other than simple cyclic groups;
+* example functions that solves more complicated set of matrix equations in the $\mathbb{Z}_4\times\mathbb{Z}_4$ case, which can be generalized easily;
 * code that obtains relations among coefficients given a $PSU(4)$ transformation in the $\mathbb{Z}_4\times\mathbb{Z}_4$ case;
 
 With the new code v2.0, further development is still in need towards a full classification of 4HDM discrete symmetry. If the reader is interested, please contact the author via email, who welcomes discussions and potential colaboration!
